@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|c:\\users\\diego d\\desktop\\api diego\\api-diego-sql-first\\api-diego-sql-first\\dao\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|solutionrelative:api-diego-sql-first\\dao\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|c:\\users\\diego d\\desktop\\api diego\\api-diego-sql-first\\api-diego-sql-first\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|solutionrelative:api-diego-sql-first\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|c:\\users\\diego d\\desktop\\api diego\\api-diego-sql-first\\api-diego-sql-first\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|solutionrelative:api-diego-sql-first\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|c:\\users\\diego d\\desktop\\api diego\\api-diego-sql-first\\api-diego-sql-first\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|solutionrelative:api-diego-sql-first\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|c:\\users\\diego d\\desktop\\api diego\\api-diego-sql-first\\api-diego-sql-first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|solutionrelative:api-diego-sql-first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|c:\\users\\diego d\\desktop\\api diego\\api-diego-sql-first\\api-diego-sql-first\\api-diego-sql-first.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{902B7068-CC4A-4336-B672-F228F302FD4B}|API-Diego-SQL-First\\API-Diego-SQL-First.csproj|solutionrelative:api-diego-sql-first\\api-diego-sql-first.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +43,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DAOUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\DAO\\DAOUsuario.cs",
+              "RelativeDocumentMoniker": "API-Diego-SQL-First\\DAO\\DAOUsuario.cs",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\DAO\\DAOUsuario.cs",
+              "RelativeToolTip": "API-Diego-SQL-First\\DAO\\DAOUsuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:29:10.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "API-Diego-SQL-First\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\Models\\Usuario.cs",
+              "RelativeToolTip": "API-Diego-SQL-First\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:28:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API-Diego-SQL-First",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\API-Diego-SQL-First.csproj",
+              "RelativeDocumentMoniker": "API-Diego-SQL-First\\API-Diego-SQL-First.csproj",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\API-Diego-SQL-First.csproj",
+              "RelativeToolTip": "API-Diego-SQL-First\\API-Diego-SQL-First.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T03:26:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API-Diego-SQL-First\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API-Diego-SQL-First\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T03:25:11.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\appsettings.json",
+              "RelativeDocumentMoniker": "API-Diego-SQL-First\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\appsettings.json",
+              "RelativeToolTip": "API-Diego-SQL-First\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T03:25:04.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "API-Diego-SQL-First\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\Diego D\\Desktop\\API Diego\\API-Diego-SQL-First\\API-Diego-SQL-First\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "API-Diego-SQL-First\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T03:00:31.404Z",
               "EditorCaption": ""
