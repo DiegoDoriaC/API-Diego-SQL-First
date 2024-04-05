@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6PgmeawGHz7P9XuxCsSRSki67JObVDoq4Ql/BX+0BsA=",
+  "Source": "API-Diego-SQL-First",
+  "BasePath": "_content/API-Diego-SQL-First",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
